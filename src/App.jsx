@@ -258,7 +258,7 @@ $$ x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a} $$
               {input.trim() === '' && (
                 <div className="h-full flex flex-col items-center justify-center text-gray-300 pointer-events-none mt-20">
                   <FileText size={48} className="mb-4 opacity-20" />
-                  <p>미리보기가 여기에 표시됩니다.</p>
+                  <p>미리보기가 여기에 표시됩니다.</p> 
                 </div>
               )}
             </div>
